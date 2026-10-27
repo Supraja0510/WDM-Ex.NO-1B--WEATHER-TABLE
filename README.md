@@ -1,4 +1,6 @@
 # WDM-Ex.NO-1B--WEATHER-TABLE
+## Name: Supraja B
+## Reg.no: 2305002026
 Aim:
 To create a Weather Table with the help of Data Mining Tool WEKA.
 Description:
